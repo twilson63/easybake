@@ -6,6 +6,15 @@
   "bin": {
     "easybake": "./bin/easybake"
   },
+  "homepage": "https://github.com/twilson63/easybake",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/twilson63/easybake.git" 
+  },
+  "bugs" : { 
+    "url" : "http://github.com/twilson63/easybake/issues" 
+  },
+  "keywords": ["coffee-script", "cake", "Cakefile", "Template", "mocha", "docco"],
   "repository": {
     "url": ""
   },
