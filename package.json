@@ -1,0 +1,22 @@
+{
+  "author": "Tom Wilson <tom@jackhq.com>",
+  "name": "easybake",
+  "description": "A command line application that will pull a Cakefile template with all the defaults pre baked into the Cakefile.",
+  "version": "0.1.0",
+  "bin": {
+    "easybake": "./bin/easybake"
+  },
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "0.6 || 0.7 || 0.8"
+  },
+  "dependencies": {
+    "request": "2.9.153"
+  },
+  "devDependencies": {
+    "coffee-script": "1.2.0"
+  },
+  "optionalDependencies": {}
+}
