@@ -2,7 +2,7 @@
   "author": "Tom Wilson <tom@jackhq.com>",
   "name": "easybake",
   "description": "A command line application that will pull a Cakefile template with all the defaults pre baked into the Cakefile.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "bin": {
     "easybake": "./bin/easybake"
   },
