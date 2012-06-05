@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-require(__dirname + '/../lib')();
+var path = require('path');
+require(path.join(__dirname, '..'))();
